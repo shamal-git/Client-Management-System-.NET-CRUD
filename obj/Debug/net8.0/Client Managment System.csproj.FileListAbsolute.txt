@@ -1,0 +1,38 @@
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\appsettings.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\Client Managment System.staticwebassets.runtime.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\Client Managment System.exe
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\Client Managment System.deps.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\Client Managment System.runtimeconfig.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\Client Managment System.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\Client Managment System.pdb
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.csproj.AssemblyReference.cache
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.AssemblyInfoInputs.cache
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.AssemblyInfo.cs
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.RazorAssemblyInfo.cache
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.RazorAssemblyInfo.cs
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.Client Managment System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Client Managment System.props
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Client Managment System.props
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Client Managment System.props
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\scopedcss\bundle\Client Managment System.styles.css
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\scopedcss\projectbundle\Client Managment System.bundle.scp.css
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client M.27858160.Up2Date
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\refint\Client Managment System.dll
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.pdb
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\Client Managment System.genruntimeconfig.cache
+C:\Users\Shamal\source\repos\MyStore\MyStore\obj\Debug\net8.0\ref\Client Managment System.dll
